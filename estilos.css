@@ -1,0 +1,27 @@
+body{
+    background-color: bisque;
+    color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1{
+    color:rgb(220, 20, 20);
+}
+
+h3{
+    font-size: 35px;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-style: double;
+    border-width: 10px;
+    padding: 3px;
+    margin: 30px;
+}
+
+footer {
+    background-color: rgb(155, 102, 24);
+}
