@@ -1,4 +1,4 @@
-# Mi primera Pagina Web De Dinosaurios elabprada en el bootcamp de TECNOLOCHICAS PRO
+# Mi primera Pagina Web De Dinosaurios elabOrada en el bootcamp de TECNOLOCHICAS PRO
 
 
 ## **Indice**
