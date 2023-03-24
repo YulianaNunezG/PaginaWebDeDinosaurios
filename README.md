@@ -3,10 +3,10 @@
 
 ## **Indice**
 
-* [1. INTRO](https://github.com/YulianaNunezG/PaginaWebDeDinosaurios/edit/main/README.md#indice)
-* [2. QUÉ CONSTRUÍ](https://github.com/YulianaNunezG/PaginaWebDeDinosaurios/edit/main/README.md#2-que-constru%C3%AD) 
-* [3. OBJETIVO DEL PROYECTO](https://github.com/YulianaNunezG/PaginaWebDeDinosaurios/edit/main/README.md#3-objetivo-del-proyecto) 
-* [4. LINK A DEMO](https://github.com/YulianaNunezG/PaginaWebDeDinosaurios/edit/main/README.md#4-link-a-demo) 
+* [1. INTRO](https://github.com/YulianaNunezG/PaginaWebDeDinosaurios/blob/main/README.md#indice)
+* [2. QUÉ CONSTRUÍ](https://github.com/YulianaNunezG/PaginaWebDeDinosaurios/blob/main/README.md#2-que-constru%C3%AD) 
+* [3. OBJETIVO DEL PROYECTO](https://github.com/YulianaNunezG/PaginaWebDeDinosaurios/blob/main/README.md#3-objetivo-del-proyecto) 
+* [4. LINK A DEMO](https://github.com/YulianaNunezG/PaginaWebDeDinosaurios/blob/main/README.md#4-link-a-demo) 
 
 ****
 
